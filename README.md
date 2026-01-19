@@ -4,4 +4,4 @@
 - Create "Add new template" issue and assign task.
 - Git new branch, commit, push and pull request.
 - Review changes.
-- CI/CD.
+- CI/CD. 
